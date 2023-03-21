@@ -7,7 +7,6 @@ package com.mycompany.maze_runner;
 
 import java.awt.Color;
 import java.awt.Graphics;
-
 import java.util.ArrayList;
 import javax.swing.JFrame;
 
